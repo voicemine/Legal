@@ -83,9 +83,7 @@ This Privacy Policy governs VoiceMine (“we”, “us” or “VoiceMine”) tr
 
 VoiceMine collects personal information from you when you register on the App, update your profile, interact with other users, and use various features of the App. To register with VoiceMine, you must provide a user name, password, native language, and email address. When you register you may also provide your country, gender, English ability and other information. Once you are a registered user of VoiceMine you may be given the option to add additional personal information to your profile. We may also collect information regarding your interaction with other users and your use of the App, including content you view linked from the App and VoiceMine points that you have earned, which will also be displayed on the App. From time to time we may ask you to respond to surveys or other requests for information, and we collect the information you provide. We may collect information from you when you participate in sweepstakes and promotions offered on the App. We use this information to continually offer you the most value as a user of the App.
 
-##### Tracking Technology
 
-VoiceMine logs IP addresses (a unique number assigned to every computer on the Internet) in order to improve security, analyze trends and administer the App. We may track your movement within the App, the third-party webApp pages from which you were referred, your use of the media player, access times and browser types. We use this information to gauge the effectiveness of our App, track information for statistical purposes and to improve the products and services we provide. We store information that we collect through cookies, log files and other tracking technology such as clear gifs. We use cookies on the App. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our App. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's “help” file. Persistent cookies are used to differentiate visitors of the App from registered users, to customize the content of certain sections of the App and to enable us to track and cater to the interests of users, in order to enhance their experience on the App. If you reject cookies, you may still use the App, but your ability to use some areas of the App may be limited and you may not be able to use certain features of the App.
 
 ##### Supplemental Information
 
@@ -99,7 +97,11 @@ We may from time to time use various outside ad-serving companies and affiliates
 
 From time to time we may provide you the opportunity to participate in sweepstakes, contests or other promotions promoted on the App, which might be sponsored or conducted by VoiceMine or by a third party. If you participate, we will request certain personally identifiable information from you. Participation in these promotions is completely voluntary and you will have a choice whether or not to disclose this information. The requested information typically includes contact information. If there is a third party sponsor involved please make sure to review that third party's privacy policy.
 
-##### Use of Personal Information
+
+
+### Use of Personal Information
+
+
 
 ##### When you register
 
@@ -133,7 +135,11 @@ We will provide you with service and account related announcements on occasions 
 
 If VoiceMine, Inc., or any of its lines of businesses or affiliated companies, is sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, the relevant databases of VoiceMine could, in whole or in part, be sold as part of that transaction. Therefore, information about registered users of and visitors to the App, including recordings and personal information, may be disclosed as part of any merger or acquisition, creation of a separate business or sale or pledge of our company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. Information about our users, including personal information and user recordings, may also need to be disclosed in connection with a commercial transaction where VoiceMine, Inc., or an affiliate, seeks financing, investment, support or funding. We also may have to release personally identifying information when it is necessary to comply with judicial or other government subpoenas, warrants, orders, or to protect the rights, property, or safety of VoiceMine, its users or others.
 
-##### Important disclosures and practices
+
+
+### Important disclosures and practices
+
+
 
 ##### A Note about International Users.
 
@@ -149,7 +155,11 @@ VoiceMine ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS,
 
 You may opt-out of use of your information as set forth above by emailing us at voicemine.mountain24@gmail.com or by setting your own preferences online for receipt of VoiceMine marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your “My Account” page, by following the instructions included in each newsletter or by emailing us at voicemine.mountain24@gmail.com.
 
-##### Access to your information
+
+
+### Access to your information
+
+
 
 ##### Updating Your Personal Information.
 
