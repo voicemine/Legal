@@ -117,7 +117,7 @@ We employ other companies and individuals to perform functions on our behalf. Ex
 
 ##### Third Party Offers
 
-We may share personally identifiable information with third parties in order to have them send you special offers and promotions or other information we think you might find of interest. We ourselves will also occasionally send you information on products, services, special deals, promotions, or information which we have found that may be of interest to our users and subscribers. If you do not want us to use the information you provide in order to inform you of products and services we think might interest you, or provide your information to third party companies, it is your obligation to please let us know, by contacting us at voicemine.mountain24@gmail.com.
+We may share personally identifiable information with third parties in order to have them send you special offers and promotions or other information we think you might find of interest. We ourselves will also occasionally send you information on products, services, special deals, promotions, or information which we have found that may be of interest to our users and subscribers. If you do not want us to use the information you provide in order to inform you of products and services we think might interest you, or provide your information to third party companies, it is your obligation to please let us know, by contacting us at privacy.voicemine.mountain24@gmail.com.
 
 ##### Invite a Friend
 
@@ -129,7 +129,7 @@ We may use your personal information to contact you about VoiceMine's products o
 
 ##### Service Related Announcements
 
-We will provide you with service and account related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service or product is delayed we might send you an email, or other message, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your registration on our App by sending an email to us at voicemine.mountain24@gmail.com.
+We will provide you with service and account related announcements on occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, or the delivery of a service or product is delayed we might send you an email, or other message, or if there is some service issue with something you might have ordered. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to cancel your registration on our App by sending an email to us at privacy.voicemine.mountain24@gmail.com.
 
 ##### Exceptional Circumstances.
 
@@ -153,7 +153,7 @@ VoiceMine ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS,
 
 ##### Choice and opt out
 
-You may opt-out of use of your information as set forth above by emailing us at "voicemine.mountain24@gmail.com" or by setting your own preferences online for receipt of VoiceMine marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your “My Account” page, by following the instructions included in each newsletter or by emailing us at "voicemine.mountain24@gmail.com"
+You may opt-out of use of your information as set forth above by emailing us at privacy.voicemine.mountain24@gmail.com or by setting your own preferences online for receipt of VoiceMine marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your “My Account” page, by following the instructions included in each newsletter or by emailing us at privacy.voicemine.mountain24@gmail.com
 
 
 
@@ -163,7 +163,7 @@ You may opt-out of use of your information as set forth above by emailing us at 
 
 ##### Updating Your Personal Information.
 
-If you are a registered user, you can update your personally identifiable information at any time. To do this, just click on the “My Account” link under your user name on the top right of the App , and then click on “Personal Info” to edit your profile. You may also select “unsubscribe” on the “Personal Info” page to have your email address removed from our mailing list. However, we are unable to update or delete any of your personally identifiable information that has been shared with a third party as permitted in this Privacy Policy. If for any reason you are concerned that the personal information VoiceMine has on file is not correct, or should you wish to have your email address removed from our mailing list or registration/contact information changed or updated, please contact us at voicemine.mountain24@gmail.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files, however, to resolve disputes, enforce our Terms of Use, or due to technical and legal requirements and constraints related to the security, integrity and operation of the App.
+If you are a registered user, you can update your personally identifiable information at any time. To do this, just click on the “My Account” link under your user name on the top right of the App , and then click on “Personal Info” to edit your profile. You may also select “unsubscribe” on the “Personal Info” page to have your email address removed from our mailing list. However, we are unable to update or delete any of your personally identifiable information that has been shared with a third party as permitted in this Privacy Policy. If for any reason you are concerned that the personal information VoiceMine has on file is not correct, or should you wish to have your email address removed from our mailing list or registration/contact information changed or updated, please contact us at privacy.voicemine.mountain24@gmail.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files, however, to resolve disputes, enforce our Terms of Use, or due to technical and legal requirements and constraints related to the security, integrity and operation of the App.
 
 How VoiceMine protects your information
 We have security procedures for the storage and disclosure of personal information, which you have given us in order to prevent unauthorized access. Keep in mind however, that no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. The App may also contain links to other Web Apps. Keep in mind that VoiceMine does not control, and is not responsible for, the privacy or security practices or the content of these other web Apps.
@@ -173,7 +173,7 @@ We have security procedures for the storage and disclosure of personal informati
 If you choose to visit the App, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use including limitations on damages, arbitration of disputes, and application of the laws of the United States and specifically the laws of the State of Massachusetts.
 
 How to contact us
-If you have any questions about our privacy policy contact us at voicemine.mountain24@gmail.com with a thorough description of your concerns or questions.
+If you have any questions about our privacy policy contact us at privacy.voicemine.mountain24@gmail.com with a thorough description of your concerns or questions.
 
 Modification of Privacy Policy
 The Effective Date of this Privacy Policy is set forth below. Please make special note of the Effective Date of this Privacy Policy. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information or how we keep your purchases anonymous, you will know because the Effective Date of the Privacy Policy will change. Your continued use of the App constitutes an affirmative acknowledgment by you of the Privacy Policy's modifications and your agreement to abide and be bound by the Privacy Policy as modified.
