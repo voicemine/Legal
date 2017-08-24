@@ -153,7 +153,9 @@ VoiceMine ASSUMES NO RESPONSIBILITY OR LIABILITY WITH REGARD TO ANY THEFT, LOSS,
 
 ##### Choice and opt out
 
-You may opt-out of use of your information as set forth above by emailing us at privacy.voicemine.mountain24@gmail.com or by setting your own preferences online for receipt of VoiceMine marketing and promotional emails. For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your “My Account” page, by following the instructions included in each newsletter or by emailing us at privacy.voicemine.mountain24@gmail.com
+You may opt-out of use of your information as set forth above by emailing us at privacy.voicemine.mountain24@gmail.com or by setting your own preferences online for receipt of VoiceMine marketing and promotional emails.
+
+For instance, if you do not want us to use your email address or other contact information to provide you with offers, or no longer wish to receive our email newsletter, you may opt-out of receiving it by opting out on your “My Account” page, by following the instructions included in each newsletter or by emailing us at privacy.voicemine.mountain24@gmail.com
 
 
 
